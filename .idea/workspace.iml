@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file:///Volumes/PRINCIPAL/NINJATRAINING/Python/DataSpell" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="FAIN-01-Fundamentos-de-Informatica" />
+    <orderEntry type="module" module-name="Python-sin-librerias" />
+  </component>
+</module>
